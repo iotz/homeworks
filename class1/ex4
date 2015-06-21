@@ -1,0 +1,6 @@
+<?php
+$lev=2;
+$kursdolar=0.58;
+$dollar=$kursdolar*$lev;
+echo $dollar;
+?>
