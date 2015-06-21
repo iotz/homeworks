@@ -1,0 +1,11 @@
+<?php
+ 
+$zodiacs = array ('film1' => "actor1,actor2,actor3",
+'film2' => "actor4,actor5,actor6", 'film3' => "actor7,actor8,actor9",
+'film4' => "actor10,actor11,acto12", 'film5' => "actor13,actor14,actor15");
+ 
+echo "film1: {$zodiacs['film1']}";
+echo "</br>";
+echo "film2: {$zodiacs['film2']}";
+ 
+?>
