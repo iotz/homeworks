@@ -1,0 +1,10 @@
+<?php
+$a=7;
+$b=20;
+$perimetar=$a+$b+$a+$b;
+$area=$a*$b;
+echo "</br>";
+echo $area;
+echo "</br>";
+echo $perimetar;
+?>
